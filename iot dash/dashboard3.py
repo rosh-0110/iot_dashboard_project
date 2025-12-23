@@ -31,7 +31,6 @@ class Dashboard(QWidget):
     def get_connected_devices(self):
         devices = []
         try:
-            # Create an ARP request to find all devices in the local network
             target_ip = "192.168.137.1/24"  # Change this to your network's IP range
             arp = ARP(pdst=target_ip)
             ether = Ether(dst="bc:dd:c2:fd:e9:74")
@@ -48,7 +47,6 @@ class Dashboard(QWidget):
         return devices
 
     def is_esp_device(self, mac_address):
-        # ESP32 and ESP8266 MAC address prefixes
         esp_prefixes = [
             "30:AE:A4",  # ESP32
             "bc:dd:c2",  # ESP8266
