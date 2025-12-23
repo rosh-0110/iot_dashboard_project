@@ -1,5 +1,3 @@
-Created by: Roshini
-<br>
 # 🌐 IoT Device Security Management Dashboard
 
 ## 🎯 Project Overview
@@ -129,7 +127,7 @@ All communication is handled through the **local network**, ensuring fast and di
 
 ## 🙌 Author
 
-**Developed by:** [Your Name]  
-**Project Type:** Academic / Personal / Prototype IoT Management System
+**Developed by:** Roshini  
+**Project Type:** Academic 
 
 ---
