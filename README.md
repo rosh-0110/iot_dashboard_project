@@ -101,6 +101,19 @@ All communication is handled through the **local network**, ensuring fast and di
 > The exact IP and setup steps depend on your network configuration.
 
 ---
+## *Configure the IOT devices and connect to host's Wi-Fi.*
+
+![](https://github.com/rosh-0110/iot_dashboard_project/blob/7fcba7149de5407b19ab6999cf2f85b24555c73c/shot1.jpeg)
+
+## *Launch the server on the host device.*
+
+![](https://github.com/rosh-0110/iot_dashboard_project/blob/7fcba7149de5407b19ab6999cf2f85b24555c73c/shot2.jpeg)
+
+## *Dashboard Preview.*
+
+![](https://github.com/rosh-0110/iot_dashboard_project/blob/7fcba7149de5407b19ab6999cf2f85b24555c73c/shot3.jpeg)
+
+---
 
 ## 🤖 Supported IoT Devices
 
