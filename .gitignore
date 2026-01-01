@@ -1,0 +1,33 @@
+# Temporary files
+*.tmp
+*.log
+*.swp
+.DS_Store
+Thumbs.db
+
+# Arduino IDE
+*.ino.bin
+*.hex
+build/
+.pio/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# ESP32/ESP8266
+*.bin
+*.elf
+*.map
+
+# Secrets and Configuration
+secrets.h
+config.json
+.env
+
+# Ubuntu/Linux
+*~
+.bash_history
+
+# IDE-Specific
+.vscode/
